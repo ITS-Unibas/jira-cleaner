@@ -1,0 +1,10 @@
+{
+  "JIRA" : {
+    "JiraBaseURL" : "https://jira.its.unibas.ch",
+    "ProjectKey" : "WASP",
+    "JiraUser" : "",
+    "JiraPass" : "",
+    "JiraToken" : "",
+    "VersionsToKeep": 5
+  }
+}
