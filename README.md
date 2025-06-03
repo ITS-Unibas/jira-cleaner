@@ -2,8 +2,8 @@
 Automatic removal of unnecessary jira-tickets for WASP. How to run the script?! Great you ask!
 
 First get your python env up to speed:
-```Python
-> pip install -r requirements.txt
+```Python Python
+pip install -r requirements.txt
 ```
 
 After that run the jiraCleanup.py
